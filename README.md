@@ -1,4 +1,4 @@
-# RoboFriends Rolodex
+# Lenormand Card Reader
 
 <div align="center">
 
