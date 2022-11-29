@@ -4,7 +4,7 @@
 
 ![screely-1668830784027](https://user-images.githubusercontent.com/5871075/202834090-0f5cd4a5-ceb2-4d75-8e63-46161998ef98.png)
 
-[Click Here to Demo](https://kitkatnik.github.io/lenormand/)
+[Click Here to Demo](https://kitkatnik.github.io/ks-lenormand/)
 
 </div>
 
